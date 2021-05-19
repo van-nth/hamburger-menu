@@ -8,5 +8,3 @@ hamburger.addEventListener('click', () => {
     link.classList.toggle('fade')
   })
 })
-console.log("Hello Git!");
-console.log("Hello shiba!");
